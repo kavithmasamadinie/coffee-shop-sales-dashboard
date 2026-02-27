@@ -1,4 +1,4 @@
-# ☕ Cloud-Based Retail Analytics Data Pipeline
+# ☕ coffee-shop-sales-dashboard
 
 ## 📌 Project Overview
 This project is an end-to-end data engineering and business intelligence solution designed for a retail coffee shop chain. Instead of relying on static flat files, this project simulates a real-world enterprise environment by provisioning a live cloud database, transforming raw data via SQL, and connecting it securely to Power BI to deliver actionable insights.
@@ -39,6 +39,6 @@ Designed a professional, two-page interactive report using a custom, high-contra
 3. **Inventory Optimization:** Highlighted the top 10 highest-grossing menu items, enabling better supply chain and ordering decisions.
 
 ## 👨‍💻 Author
-**Kamal Priyantha Samarawickrama**
+**Kavithma Samarawickrama**
 * ASspring Data Analyst &  Data Engineer
 * [Connect with me on LinkedIn](#) *(Add your LinkedIn link here)*
